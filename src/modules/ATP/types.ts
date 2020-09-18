@@ -1,0 +1,1 @@
+export type TATPHeaderOptions = 'Week' | 'Mon.' | 'Race Name' | 'Priority' | 'Period' | 'Volume';
